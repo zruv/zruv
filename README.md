@@ -1,5 +1,5 @@
 
-# <span style="color:red;">⚡️ Greetings, Adventurer! I'm [Your Name]! ⚡️</span>
+# <span style="color:red;">⚡️ Greetings, Adventurer! I'm zruv! ⚡️</span>
 
 ## <span style="color:black;">🎯 My Mission</span>
 
@@ -12,7 +12,7 @@ Here are the power-ups I've collected on my journey:
 *   **Languages:** JavaScript (ES6+), Python, HTML5, CSS3
 *   **Frameworks & Libraries:** React, Node.js, Express, Django
 *   **Databases:** MongoDB, PostgreSQL, MySQL
-*   **Tools & Platforms:** Git, GitHub, Docker, AWS
+*   **Tools & Platforms:** Git, GitHub, Docker
 
 ## <span style="color:lime;">My Epic Quests</span>
 
@@ -26,9 +26,7 @@ Behold, the legendary quests I've completed! You can find more tales of my adven
 
 ## <span style="color:lime;">My Power Level</span>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
-
-*(Note: Replace `your-username` with your actual GitHub username to activate your power level!)*
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zruv&show_icons=true&theme=dracula)
 
 ## <span style="color:cyan;">Join My Guild!</span>
 
