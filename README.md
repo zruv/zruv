@@ -17,7 +17,7 @@
   <h2 style="color: #FF0033;"><b>💻 Tech Stack</b></h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,django,mongodb,postgres,mysql,git,github,docker" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,js,python,git,github,docker,arduino,bash,linux,matlab,raspberrypi,ros" />
     </a>
   </p>
 </div>
