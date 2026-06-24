@@ -9,11 +9,11 @@
         "created_at",
         "updated_at",
         "languages",
-        "total_commits",
+        "total_commits"
     ],
     "additional_info": "Embedded Systems | Hardware Security | UAV Systems | Edge AI | IoT Automations",
     "preferred_color": "red",
     "max_languages": 8,
-    "append_automatic": true,
-    "exclude_orgainzations": true
+    "append_autmatic": true,
+    "exclude_organizations": true
 }
