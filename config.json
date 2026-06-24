@@ -19,9 +19,9 @@
         "total_issues",
         "total_prs"
     ],
-    "additional_info": "",
-    "preferred_color": "lightblue",
-    "max_languages": 5,
+    "additional_info": "Embedded Systems | Hardware Security | UAV Systems | Edge AI | IoT Automations",
+    "preferred_color": "cyan",
+    "max_languages": 6,
     "append_automatic": true,
     "exclude_orgainzations": true
 }
