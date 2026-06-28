@@ -60,9 +60,13 @@ def fetch_stats(g: Github) -> dict:
                 total_prs += repo.get_pulls().totalCount
             except Exception:
                 continue
-
+                
     return {
         "username": user.login,
+        "os": "Zorin OS, Linux Mint, KDE Kali",
+        "education": "B.Tech ECE (3rd Year)",
+        "focus": "Embedded Systems & Hardware Security",
+        "hobbies": "Drones/UAVs, IoT, UI/UX Design",
         "followers": user.followers,
         "following": user.following,
         "public_repos": user.public_repos,
