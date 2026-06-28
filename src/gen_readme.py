@@ -59,7 +59,7 @@ def gen_image(g: Github):
     
     bg_color = (0, 0, 0)
     value_color = return_preffered_color()
-    text_color = (255, 255, 255)
+    text_color = (97, 175, 239)
     font_size = 16
 
     font = None
@@ -108,7 +108,7 @@ def gen_image(g: Github):
                 value = parts[1].strip()
                 
                 title_width = font.getlength(title)
-                draw.text((x_text, y_offset), title, fill=value_color, font=font)
+                draw.text((x_text, y_offset), title, fill=(229, 192, 123), font=font)
                 
                 x_value = x_text + title_width + 5
                 remaining_width = max_text_width - title_width - 5
