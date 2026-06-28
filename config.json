@@ -13,7 +13,7 @@
     "total_commits"
   ],
   "additional_info": "------------------------------",
-  "preferred_color": "cyan",
+  "preferred_color": "red",
   "max_languages": 6,
   "append_autmatic": true,
   "exclude_organizations": true
