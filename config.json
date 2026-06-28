@@ -1,19 +1,20 @@
 {
-    "display_stats": [
-        "username",
-        "location",
-        "followers",
-        "following",
-        "public_repos",
-        "bytes_of_code",
-        "created_at",
-        "updated_at",
-        "languages",
-        "total_commits"
-    ],
-    "additional_info": "Embedded Systems | Hardware Security | UAV Systems | Edge AI | IoT Automations",
-    "preferred_color": "red",
-    "max_languages": 8,
-    "append_autmatic": true,
-    "exclude_organizations": true
+  "display_stats": [
+    "username",
+    "os",
+    "education",
+    "focus",
+    "hobbies",
+    "location",
+    "followers",
+    "public_repos",
+    "bytes_of_code",
+    "languages",
+    "total_commits"
+  ],
+  "additional_info": "------------------------------",
+  "preferred_color": "cyan",
+  "max_languages": 6,
+  "append_autmatic": true,
+  "exclude_organizations": true
 }
